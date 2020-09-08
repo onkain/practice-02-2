@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace practice_02_2
-{
+{ 
   class Program
   {
     static void Main(string[] args)
